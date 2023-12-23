@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Harsh Jha</h1>
-<h3 align="center">A passionate Back-End developer from India</h3>
+<h3 align="center">A passionate front-end developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhaharsh03&label=Profile%20views&color=0e75b6&style=flat" alt="jhaharsh03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhaharsh03" alt="jhaharsh03" /></a> </p>
 
-- 🔭 I’m currently working on **StudyBuddy App**
+- 🔭 I’m currently working on **Doubt Solving Webapp**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **Node.js and MongoDB**
 
-- 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **Open Source**
 
 - 👨‍💻 All of my projects are available at [https://leetcode.com/jhaharsh03/](https://leetcode.com/jhaharsh03/)
 
-- 💬 Ask me about **Django, Python, Data Structure and Algorithm**
+- 💬 Ask me about **React, JavaScript, Data Structure and Algorithm**
 
 - 📫 How to reach me **harshptct@gmail.com**
 
